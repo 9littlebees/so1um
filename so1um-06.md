@@ -2,7 +2,7 @@
 
 ## Create your hero.
 
-Roll 3d6 once each for **Body** (*physical prowess & health*), **Mind** (*mental capacity & intelligence*), **Spirit** (*spunk & willpower*). Count dice with even #s for each stat. If no even numbers are rolled, the stat equals 1. For Hit Points roll 2d6, count the evens and add this to Body score. Heroes begin with one cliché, roll 2d6, and gain one cliché for each even number rolled. If you wish, determine a past, looks, quirks, etc. Be creative and stuff.
+Roll 3d6 once each for **Body** (*physical prowess & health*), **Mind** (*mental capacity & intelligence*), **Spirit** (*spunk & willpower*). Count dice with even #s for each stat. If no even numbers are rolled, the stat equals 1. For Hit Points roll 2d6, count the evens and add this to Body score. Heroes begin with one cliché, roll 2d6, and gain one extra cliché for each even number rolled. If you wish, determine a past, looks, quirks, etc. Be creative and stuff.
 
 ## Determine goals & the first scene.
 
